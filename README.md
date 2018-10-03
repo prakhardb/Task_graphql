@@ -1,4 +1,4 @@
 # Task_graphql
-#Instructions
-1) <b>npm install</b>
-2)<b>npm start </b>
+## Instructions 
+ <b>1) npm install</b> <br>
+ <b>2) npm start </b>
